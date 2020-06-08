@@ -1,0 +1,19 @@
+{
+    "name": "eu.kbegiedza.blinq",
+    "version": "0.0.1a",
+    "displayName": "Blinq",
+    "description": "Blinq",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "dependencies": {},
+    "keywords": [
+        "keyword1",
+        "keyword2",
+        "keyword3"
+    ],
+    "author": {
+        "name": "Krzysztof Begiedza",
+        "email": "contact@kbegiedza.eu",
+        "url": "https://www.kbegiedza.eu"
+    }
+}
